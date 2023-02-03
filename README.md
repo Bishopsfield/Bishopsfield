@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Simon Wood.
 
-I currently work as an MIS Technical Lead but my real love is programming and the problem-solving that accompanies it.
+I currently work as an MIS Technical Lead but my real love is programming and the problem-solving that accompanies it. I left school just after it acquired its first computer, but jumped into programming the following year when I built my own Sinclair ZX81.
 
 <!--
 **Bishopsfield/Bishopsfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
