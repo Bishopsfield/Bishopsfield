@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Simon Wood.
+
+I currently work as an MIS Technical Lead but my real love is programming and the problem-solving that accompanies it.
 
 <!--
 **Bishopsfield/Bishopsfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
